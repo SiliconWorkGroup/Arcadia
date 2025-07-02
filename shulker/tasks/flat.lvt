@@ -1,0 +1,3 @@
+import shulker.modrinth
+flat ./src/mods ./modsFlatted
+mrp r ./modsFlatted

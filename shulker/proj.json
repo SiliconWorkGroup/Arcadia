@@ -1,0 +1,6 @@
+{
+  "ProjectName": "Arcadia",
+  "RootPath": "./src/",
+  "OutPath": "./build/",
+  "DefaultEnvVars": {}
+}

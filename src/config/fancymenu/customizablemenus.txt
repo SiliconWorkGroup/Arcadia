@@ -1,0 +1,26 @@
+type = customizablemenus
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+org.violetmoon.quark.base.client.config.QuarkConfigHomeScreen {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
+}
+
+com.mrcrayfish.catalogue.client.screen.CatalogueModListScreen {
+}
+
+net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
+}
+
+net.minecraft.client.gui.screens.OptionsScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen {
+}
+

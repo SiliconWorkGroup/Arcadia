@@ -1,0 +1,161 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				axolotl = true
+				bee = true
+				trader_llama = true
+				donkey = true
+				cow = true
+				tropical_fish = true
+				chest_minecart = true
+				fox = true
+				slime = true
+				pig = true
+				skeleton = true
+				iron_golem = true
+				bat = true
+				frog = true
+				cat = true
+				zombie = true
+				drowned = true
+				experience_orb = true
+				player = true
+				item = true
+				turtle = true
+				wolf = true
+				villager = true
+				salmon = true
+				wandering_trader = true
+				zombie_villager = true
+				tnt_minecart = true
+				ocelot = true
+				boat = true
+				item_frame = true
+				horse = true
+				minecart = true
+				leash_knot = true
+				mooshroom = true
+				cave_spider = true
+				glow_squid = true
+				cod = true
+				witch = true
+				glow_item_frame = false
+				squid = true
+				parrot = true
+				spider = true
+				creeper = true
+				enderman = true
+
+			[light_sources.settings.entities.irons_spellbooks]
+				necromancer = true
+
+			[light_sources.settings.entities.environmental]
+				deer = true
+
+			[light_sources.settings.entities.youkaishomecoming]
+				lamprey = true
+				rumia = true
+
+			[light_sources.settings.entities.alexsmobs]
+				gorilla = true
+				flying_fish = true
+				capuchin_monkey = true
+				cockroach = true
+				lobster = true
+				kangaroo = true
+				grizzly_bear = true
+				blue_jay = true
+				centipede_body = true
+				centipede_head = true
+				catfish = true
+				mantis_shrimp = true
+				raccoon = true
+				flutter = true
+				fly = true
+				tasmanian_devil = true
+				centipede_tail = true
+				hummingbird = true
+				crow = true
+				underminer = true
+				skunk = true
+				terrapin = true
+
+			[light_sources.settings.entities.biomemakeover]
+				decayed = true
+
+			[light_sources.settings.entities.naturalist]
+				robin = true
+				dragonfly = true
+				bass = true
+				tortoise = true
+				firefly = true
+				butterfly = true
+				cardinal = true
+				sparrow = true
+				lizard = true
+				finch = true
+				catfish = true
+
+			[light_sources.settings.entities.atmospheric]
+				tetra = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				gyrodyne = true
+				quadrocopter = true
+
+			[light_sources.settings.entities.upgrade_aquatic]
+				perch = true
+
+			[light_sources.settings.entities.ribbits]
+				ribbit = true
+
+			[light_sources.settings.entities.touhou_little_maid]
+				maid = true
+				fairy = true
+
+			[light_sources.settings.entities.create]
+				carriage_contraption = true
+				stationary_contraption = true
+				package = true
+				contraption = true
+
+			[light_sources.settings.entities.quark]
+				forgotten = true
+				toretoise = true
+				glass_frame = true
+				foxhound = true
+				stoneling = true
+				pickarang = true
+
+			[light_sources.settings.entities.domesticationinnovation]
+				psychic_wall = true
+
+			[light_sources.settings.entities.neapolitan]
+				chimpanzee = true
+				banana_peel = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
