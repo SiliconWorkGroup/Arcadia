@@ -1,8 +1,6 @@
-var tPath C:\mcl\.minecraft\versions\ArcadiaRefactor
 import shulker.modrinth
-delete ^tPath^\mods
-flat ./src/mods %project.cache%/mods
-mrp r %project.cache%/mods
-copy %project.cache%/mods ^tPath^\mods
-delete %project.cache%/mods
-copy ./src/config ^tPath^\config true
+flat ./src/mods %project.cache%/overrides/mods
+copy ./src/config %project.cache%/overrides/config true
+mrp e %project.cache%/overrides %project.cache%/modrinth.index.json true
+pkgr zip make %project.cache% %project.output%%project.name%.mrpack
+delete %project.cache%
