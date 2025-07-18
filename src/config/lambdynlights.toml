@@ -22,54 +22,59 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				chicken = true
 				axolotl = true
 				bee = true
-				trader_llama = true
-				donkey = true
+				arrow = true
 				cow = true
-				tropical_fish = true
-				chest_minecart = true
-				fox = true
-				slime = true
 				pig = true
 				skeleton = true
-				iron_golem = true
 				bat = true
 				frog = true
-				endermite = true
-				cat = true
-				zombie = true
 				drowned = true
 				experience_orb = true
-				player = true
-				pufferfish = true
 				dolphin = true
 				item = true
 				turtle = true
-				wolf = true
-				villager = true
 				salmon = true
 				wandering_trader = true
-				zombie_villager = true
-				tnt_minecart = true
+				wither_skeleton = true
 				ocelot = true
-				boat = true
 				item_frame = true
 				horse = true
 				minecart = true
 				leash_knot = true
 				mooshroom = true
-				cave_spider = true
 				glow_squid = true
-				cod = true
-				witch = true
 				glow_item_frame = false
 				squid = true
 				parrot = true
-				spider = true
 				creeper = true
 				enderman = true
+				chicken = true
+				trader_llama = true
+				donkey = true
+				tropical_fish = true
+				chest_minecart = true
+				fox = true
+				slime = true
+				iron_golem = true
+				zombified_piglin = true
+				piglin = true
+				blaze = true
+				endermite = true
+				cat = true
+				zombie = true
+				player = true
+				pufferfish = true
+				wolf = true
+				villager = true
+				zombie_villager = true
+				tnt_minecart = true
+				boat = true
+				cave_spider = true
+				cod = true
+				witch = true
+				spider = true
 
 			[light_sources.settings.entities.irons_spellbooks]
 				necromancer = true
@@ -127,6 +132,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.atmospheric]
 				tetra = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				hydrogen_jellyfish = true
 
 			[light_sources.settings.entities.immersive_aircraft]
 				gyrodyne = true

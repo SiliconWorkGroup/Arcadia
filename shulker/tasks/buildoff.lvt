@@ -1,0 +1,7 @@
+import shulker.modrinth
+flat ./src/mods %project.cache%/overrides/mods
+copy ./src/config %project.cache%/overrides/config true
+mrp r %project.cache%/overrides
+copy ./shulker/mrpack.template.json %project.cache%/modrinth.index.json
+pkgr zip make %project.cache% %project.output%%project.name%_Offline.mrpack
+delete %project.cache%
