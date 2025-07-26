@@ -164,6 +164,9 @@
 			swamp_cypress = true
 			ancient_oak = true
 
+		[types.wood_type.aether]
+			skyroot = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.alexscaves]
@@ -382,6 +385,14 @@
 			willow = true
 			swamp_cypress = true
 			ancient_oak = true
+
+		[types.leaves_type.aether]
+			golden_oak = true
+			holiday = true
+			decorated_holiday = true
+			crystal = true
+			crystal_fruit = true
+			skyroot = true
 
 	[types.cake]
 

@@ -49,6 +49,7 @@ mode = "fancy"
 				squid = true
 				parrot = true
 				creeper = true
+				lightning_bolt = true
 				enderman = true
 				chicken = true
 				trader_llama = true
@@ -83,44 +84,95 @@ mode = "fancy"
 				deer = true
 				reindeer = true
 
+			[light_sources.settings.entities.blue_skies]
+				crystal_camel = true
+				infested_swarmer = true
+				reindeer = true
+				venom_spider = true
+				armored_frost_spirit = true
+				whistleshell_crab = true
+				municipal_monkfish = true
+				jelly_drifter = true
+				crogre = true
+				sliv = true
+				stardust_ram = true
+				shade_monitor = true
+				nyctofly = true
+				horizofin_tunid = true
+				seclam = true
+				cosmic_fox = true
+				charscale_moki = true
+				emberback = true
+				grittle_flatfish = true
+
 			[light_sources.settings.entities.youkaishomecoming]
 				lamprey = true
 				rumia = true
 
 			[light_sources.settings.entities.alexsmobs]
+				kangaroo = true
+				hammerhead_shark = true
+				murmur_head = true
+				blue_jay = true
+				emu = true
+				mimic_octopus = true
+				triops = true
+				catfish = true
+				tasmanian_devil = true
+				centipede_tail = true
+				cosmic_cod = true
+				underminer = true
+				skunk = true
+				roadrunner = true
+				terrapin = true
+				rattlesnake = true
 				gorilla = true
 				flying_fish = true
 				leafcutter_ant = true
 				capuchin_monkey = true
 				cockroach = true
+				murmur = true
 				lobster = true
-				kangaroo = true
 				grizzly_bear = true
-				blue_jay = true
 				centipede_body = true
 				centipede_head = true
-				catfish = true
 				mantis_shrimp = true
 				raccoon = true
 				flutter = true
 				fly = true
-				tasmanian_devil = true
-				centipede_tail = true
-				cosmic_cod = true
 				hummingbird = true
 				crow = true
-				underminer = true
-				skunk = true
-				terrapin = true
 
 			[light_sources.settings.entities.biomemakeover]
 				decayed = true
 				dragonfly = true
 
+			[light_sources.settings.entities.aether]
+				cockatrice = true
+				slider = true
+				golden_swet = true
+				evil_whirlwind = true
+				blue_swet = true
+				zephyr = true
+				flying_cow = true
+				whirlwind = true
+				valkyrie = true
+				phyg = true
+				aerbunny = true
+				lightning_knife = true
+				sheepuff = true
+				aerwhale = true
+				aechor_plant = true
+				mimic = true
+				moa = true
+				sentry = true
+				valkyrie_queen = true
+
 			[light_sources.settings.entities.naturalist]
 				robin = true
 				dragonfly = true
 				bass = true
+				snail = true
 				tortoise = true
 				firefly = true
 				butterfly = true
@@ -160,12 +212,14 @@ mode = "fancy"
 				contraption = true
 
 			[light_sources.settings.entities.quark]
+				totem = true
 				forgotten = true
 				toretoise = true
 				glass_frame = true
 				foxhound = true
 				stoneling = true
 				pickarang = true
+				flamerang = true
 
 			[light_sources.settings.entities.twilightforest]
 				deer = true
