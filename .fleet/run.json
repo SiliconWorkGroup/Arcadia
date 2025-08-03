@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "Run Client",
+            "program": "$PROJECT_DIR$/srdk.exe",
+            "args": ["run"]
+        }
+    ]
+}
