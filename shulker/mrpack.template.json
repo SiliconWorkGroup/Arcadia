@@ -1,8 +1,8 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "B6.40",
-  "name": "Arcadia Next",
+  "versionId": "@version",
+  "name": "@name",
   "summary": "A comprehensive modpack designed to enrich the original game experience",
   "files": [],
   "dependencies": {

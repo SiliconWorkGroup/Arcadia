@@ -1,8 +1,8 @@
-var tPath C:\mcl\.minecraft\versions\ArcadiaRefactor
+run settings.lvt
 import shulker.modrinth
-delete ^tPath^\mods
+delete ^gameRoot^\mods
 flat ./src/mods %project.cache%/mods
 mrp r %project.cache%/mods
-copy %project.cache%/mods ^tPath^\mods
+copy %project.cache%/mods ^gameRoot^\mods
 delete %project.cache%/mods
-copy ./src/config ^tPath^\config true
+copy ./src/config ^gameRoot^\config true

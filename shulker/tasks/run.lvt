@@ -1,3 +1,3 @@
 run deploy.lvt
 sh powershell /c ./shulker/local/client.ps1
-copy ^tPath^\config ./src/config true
+copy ^gameRoot^\config ./src/config true
