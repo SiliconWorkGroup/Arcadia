@@ -1,4 +1,6 @@
 {
   "VersionId": "SecVSw22",
-  "Sha1": "0c408317b7c3bc3c7f7d5f6dbbb3ee106fa5f4fc"
+  "Sha1": "0c408317b7c3bc3c7f7d5f6dbbb3ee106fa5f4fc",
+  "ServerSide": null,
+  "ClientSide": null
 }

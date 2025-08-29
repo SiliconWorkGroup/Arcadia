@@ -1,4 +1,6 @@
 {
   "VersionId": "d28gpPn6",
-  "Sha1": "9336db4e6ce458bccf7724c039f0371e822397ae"
+  "Sha1": "9336db4e6ce458bccf7724c039f0371e822397ae",
+  "ServerSide": null,
+  "ClientSide": null
 }

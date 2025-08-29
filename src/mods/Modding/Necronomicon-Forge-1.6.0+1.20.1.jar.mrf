@@ -1,4 +1,6 @@
 {
   "VersionId": "AomMq7HP",
-  "Sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf"
+  "Sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf",
+  "ServerSide": null,
+  "ClientSide": null
 }

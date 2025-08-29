@@ -1,4 +1,6 @@
 {
   "VersionId": "ibcPwZZT",
-  "Sha1": "b520234ee3194ada89bbfa0336e3abee11d711e7"
+  "Sha1": "b520234ee3194ada89bbfa0336e3abee11d711e7",
+  "ServerSide": null,
+  "ClientSide": null
 }

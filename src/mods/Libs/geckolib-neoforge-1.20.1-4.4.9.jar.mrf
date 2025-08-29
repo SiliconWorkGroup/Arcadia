@@ -1,4 +1,6 @@
 {
   "VersionId": "maatiOOo",
-  "Sha1": "e0345002b883161ebda2695d81d45e2b0792b646"
+  "Sha1": "e0345002b883161ebda2695d81d45e2b0792b646",
+  "ServerSide": null,
+  "ClientSide": null
 }

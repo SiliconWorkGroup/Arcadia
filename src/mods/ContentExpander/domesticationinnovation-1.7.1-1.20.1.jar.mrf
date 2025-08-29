@@ -1,4 +1,6 @@
 {
   "VersionId": "SGxCLghg",
-  "Sha1": "8feae4ba8a3ffb117fa7b3b4291a520e2497fa1e"
+  "Sha1": "8feae4ba8a3ffb117fa7b3b4291a520e2497fa1e",
+  "ServerSide": null,
+  "ClientSide": null
 }

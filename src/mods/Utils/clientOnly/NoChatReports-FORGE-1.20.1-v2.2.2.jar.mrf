@@ -1,4 +1,6 @@
 {
   "VersionId": "ksEG6N5E",
-  "Sha1": "069396e689ae887d065c8d61b7945e685fbcc65b"
+  "Sha1": "069396e689ae887d065c8d61b7945e685fbcc65b",
+  "ServerSide": null,
+  "ClientSide": null
 }

@@ -1,4 +1,6 @@
 {
   "VersionId": "C7buFh0l",
-  "Sha1": "a3a7008e07a27b3c831af7e4c82fbbc10a4da328"
+  "Sha1": "a3a7008e07a27b3c831af7e4c82fbbc10a4da328",
+  "ServerSide": null,
+  "ClientSide": null
 }

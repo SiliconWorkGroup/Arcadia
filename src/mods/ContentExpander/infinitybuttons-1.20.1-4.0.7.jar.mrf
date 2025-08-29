@@ -1,4 +1,6 @@
 {
   "VersionId": "ynnmIRN0",
-  "Sha1": "f0e914b117049cfb545e39c58df890252ef2e72d"
+  "Sha1": "f0e914b117049cfb545e39c58df890252ef2e72d",
+  "ServerSide": null,
+  "ClientSide": null
 }

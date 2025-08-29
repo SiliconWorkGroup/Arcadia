@@ -1,4 +1,6 @@
 {
   "VersionId": "VEVX8qmw",
-  "Sha1": "7915081d9ec06c4d4e007ecade69d5113aca15b0"
+  "Sha1": "7915081d9ec06c4d4e007ecade69d5113aca15b0",
+  "ServerSide": null,
+  "ClientSide": null
 }

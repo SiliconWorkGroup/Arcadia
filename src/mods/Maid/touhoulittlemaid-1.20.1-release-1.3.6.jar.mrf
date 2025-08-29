@@ -1,4 +1,6 @@
 {
   "VersionId": "4GZKHcUI",
-  "Sha1": "f99dc4d1b2fb61be8e792da0f2498b72ca3cf4fb"
+  "Sha1": "f99dc4d1b2fb61be8e792da0f2498b72ca3cf4fb",
+  "ServerSide": null,
+  "ClientSide": null
 }

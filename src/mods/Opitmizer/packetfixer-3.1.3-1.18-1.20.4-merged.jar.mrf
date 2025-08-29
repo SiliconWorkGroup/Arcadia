@@ -1,4 +1,6 @@
 {
   "VersionId": "zx8mdvkG",
-  "Sha1": "1338ae98ccbae20f4419d7f6f2f3510ee207f25c"
+  "Sha1": "1338ae98ccbae20f4419d7f6f2f3510ee207f25c",
+  "ServerSide": null,
+  "ClientSide": null
 }

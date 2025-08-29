@@ -1,4 +1,6 @@
 {
   "VersionId": "72zU9a5q",
-  "Sha1": "602b0cfa77721a74c3c6585397cab76eb67b3fcd"
+  "Sha1": "602b0cfa77721a74c3c6585397cab76eb67b3fcd",
+  "ServerSide": null,
+  "ClientSide": null
 }

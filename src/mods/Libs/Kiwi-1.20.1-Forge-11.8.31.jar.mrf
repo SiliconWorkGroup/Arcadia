@@ -1,4 +1,6 @@
 {
   "VersionId": "MuVJPnGY",
-  "Sha1": "3d93f70daf0e8a9efd7f465785602429086765dc"
+  "Sha1": "3d93f70daf0e8a9efd7f465785602429086765dc",
+  "ServerSide": null,
+  "ClientSide": null
 }

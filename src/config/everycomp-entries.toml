@@ -167,6 +167,12 @@
 		[types.wood_type.aether]
 			skyroot = true
 
+		[types.wood_type.vanillabackport]
+			pale_oak = true
+
+		[types.wood_type.createdieselgenerators]
+			chip_wood = true
+
 	[types.leaves_type]
 
 		[types.leaves_type.alexscaves]
@@ -393,6 +399,9 @@
 			crystal = true
 			crystal_fruit = true
 			skyroot = true
+
+		[types.leaves_type.vanillabackport]
+			pale_oak = true
 
 	[types.cake]
 

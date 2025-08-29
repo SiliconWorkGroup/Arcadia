@@ -1,4 +1,6 @@
 {
   "VersionId": "e24ihUAU",
-  "Sha1": "b40074b987c122f34803ce923df5573f8a18e244"
+  "Sha1": "b40074b987c122f34803ce923df5573f8a18e244",
+  "ServerSide": null,
+  "ClientSide": null
 }

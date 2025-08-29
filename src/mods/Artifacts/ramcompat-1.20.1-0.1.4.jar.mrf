@@ -1,4 +1,6 @@
 {
   "VersionId": "g64HNKRQ",
-  "Sha1": "6475d3d9eed8ede0a2e9356aacc6a81bf713de2a"
+  "Sha1": "6475d3d9eed8ede0a2e9356aacc6a81bf713de2a",
+  "ServerSide": null,
+  "ClientSide": null
 }

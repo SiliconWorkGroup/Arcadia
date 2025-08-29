@@ -1,4 +1,6 @@
 {
   "VersionId": "hmeyC41q",
-  "Sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5"
+  "Sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
+  "ServerSide": null,
+  "ClientSide": null
 }

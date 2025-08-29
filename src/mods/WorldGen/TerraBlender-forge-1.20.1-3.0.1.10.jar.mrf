@@ -1,4 +1,6 @@
 {
   "VersionId": "zGconCHG",
-  "Sha1": "b3dbaf1aac31601b9efb19e4c67646750041968a"
+  "Sha1": "b3dbaf1aac31601b9efb19e4c67646750041968a",
+  "ServerSide": null,
+  "ClientSide": null
 }

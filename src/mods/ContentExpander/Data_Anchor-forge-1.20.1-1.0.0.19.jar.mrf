@@ -1,4 +1,6 @@
 {
   "VersionId": "WKWSOV6p",
-  "Sha1": "8a6773632382d8fb8e8baa48ee5273a603f57701"
+  "Sha1": "8a6773632382d8fb8e8baa48ee5273a603f57701",
+  "ServerSide": null,
+  "ClientSide": null
 }

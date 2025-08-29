@@ -1,4 +1,6 @@
 {
   "VersionId": "oUSK4sOQ",
-  "Sha1": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7"
+  "Sha1": "64a435eaa6e08fff5af2c720c3b6a40fe292f2f7",
+  "ServerSide": null,
+  "ClientSide": null
 }

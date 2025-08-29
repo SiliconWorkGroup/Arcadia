@@ -1,4 +1,6 @@
 {
   "VersionId": "NrzERFzz",
-  "Sha1": "69ed292c207af89febd156d83b3e78f64b35b969"
+  "Sha1": "69ed292c207af89febd156d83b3e78f64b35b969",
+  "ServerSide": null,
+  "ClientSide": null
 }

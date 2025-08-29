@@ -1,4 +1,6 @@
 {
   "VersionId": "BUK0p8gn",
-  "Sha1": "e3960cd08c218fc4571ca59aea8f4e348343af7d"
+  "Sha1": "e3960cd08c218fc4571ca59aea8f4e348343af7d",
+  "ServerSide": null,
+  "ClientSide": null
 }

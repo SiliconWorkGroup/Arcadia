@@ -1,4 +1,6 @@
 {
   "VersionId": "V5CWNMoG",
-  "Sha1": "f0cbbe371442bb7bb4715d18b6972cc23ede4463"
+  "Sha1": "f0cbbe371442bb7bb4715d18b6972cc23ede4463",
+  "ServerSide": null,
+  "ClientSide": null
 }

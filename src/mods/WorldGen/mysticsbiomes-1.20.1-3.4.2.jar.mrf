@@ -1,4 +1,6 @@
 {
   "VersionId": "Ddy56mDz",
-  "Sha1": "77f1f5408da7ccd79199ef67a64adfa45eb1c849"
+  "Sha1": "77f1f5408da7ccd79199ef67a64adfa45eb1c849",
+  "ServerSide": null,
+  "ClientSide": null
 }

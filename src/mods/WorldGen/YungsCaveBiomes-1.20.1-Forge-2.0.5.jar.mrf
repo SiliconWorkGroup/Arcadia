@@ -1,4 +1,6 @@
 {
   "VersionId": "UzIwhtOp",
-  "Sha1": "c0a57a7d5a0cea0297f82a482490fc1e7933695f"
+  "Sha1": "c0a57a7d5a0cea0297f82a482490fc1e7933695f",
+  "ServerSide": null,
+  "ClientSide": null
 }

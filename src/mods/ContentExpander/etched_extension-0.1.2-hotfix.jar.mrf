@@ -1,4 +1,6 @@
 {
   "VersionId": "idc1NKRx",
-  "Sha1": "c920112681ce21855e6c64573c7feaca9b6c8b78"
+  "Sha1": "c920112681ce21855e6c64573c7feaca9b6c8b78",
+  "ServerSide": null,
+  "ClientSide": null
 }

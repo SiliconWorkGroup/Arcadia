@@ -30,6 +30,8 @@ mode = "fancy"
 				skeleton = true
 				bat = true
 				frog = true
+				rabbit = true
+				armor_stand = true
 				drowned = true
 				experience_orb = true
 				dolphin = true
@@ -38,6 +40,7 @@ mode = "fancy"
 				salmon = true
 				wandering_trader = true
 				wither_skeleton = true
+				goat = true
 				ocelot = true
 				item_frame = true
 				horse = true
@@ -58,6 +61,7 @@ mode = "fancy"
 				chest_minecart = true
 				fox = true
 				slime = true
+				pillager = true
 				iron_golem = true
 				zombified_piglin = true
 				piglin = true
@@ -65,6 +69,7 @@ mode = "fancy"
 				endermite = true
 				cat = true
 				zombie = true
+				sheep = true
 				player = true
 				pufferfish = true
 				wolf = true
@@ -72,17 +77,11 @@ mode = "fancy"
 				zombie_villager = true
 				tnt_minecart = true
 				boat = true
+				painting = true
 				cave_spider = true
 				cod = true
 				witch = true
 				spider = true
-
-			[light_sources.settings.entities.irons_spellbooks]
-				necromancer = true
-
-			[light_sources.settings.entities.environmental]
-				deer = true
-				reindeer = true
 
 			[light_sources.settings.entities.blue_skies]
 				crystal_camel = true
@@ -110,6 +109,7 @@ mode = "fancy"
 				rumia = true
 
 			[light_sources.settings.entities.alexsmobs]
+				crocodile = true
 				kangaroo = true
 				hammerhead_shark = true
 				murmur_head = true
@@ -117,6 +117,7 @@ mode = "fancy"
 				emu = true
 				mimic_octopus = true
 				triops = true
+				gazelle = true
 				catfish = true
 				tasmanian_devil = true
 				centipede_tail = true
@@ -135,6 +136,7 @@ mode = "fancy"
 				lobster = true
 				grizzly_bear = true
 				centipede_body = true
+				rocky_roller = true
 				centipede_head = true
 				mantis_shrimp = true
 				raccoon = true
@@ -142,10 +144,14 @@ mode = "fancy"
 				fly = true
 				hummingbird = true
 				crow = true
+				banana_slug = true
+				elephant = true
+				sugar_glider = true
 
 			[light_sources.settings.entities.biomemakeover]
 				decayed = true
 				dragonfly = true
+				moth = true
 
 			[light_sources.settings.entities.aether]
 				cockatrice = true
@@ -168,19 +174,31 @@ mode = "fancy"
 				sentry = true
 				valkyrie_queen = true
 
+			[light_sources.settings.entities.hamsters]
+				hamster = true
+
+			[light_sources.settings.entities.vanillabackport]
+				happy_ghast = true
+
 			[light_sources.settings.entities.naturalist]
+				deer = true
+				zebra = true
+				snail = true
+				firefly = true
+				bluejay = true
+				snake = true
+				cardinal = true
+				catfish = true
 				robin = true
 				dragonfly = true
+				boar = true
 				bass = true
-				snail = true
 				tortoise = true
-				firefly = true
 				butterfly = true
-				cardinal = true
+				giraffe = true
 				sparrow = true
 				lizard = true
 				finch = true
-				catfish = true
 
 			[light_sources.settings.entities.atmospheric]
 				tetra = true
@@ -212,6 +230,7 @@ mode = "fancy"
 				contraption = true
 
 			[light_sources.settings.entities.quark]
+				shiba = true
 				totem = true
 				forgotten = true
 				toretoise = true
@@ -221,10 +240,28 @@ mode = "fancy"
 				pickarang = true
 				flamerang = true
 
+			[light_sources.settings.entities.ecologics]
+				coconut_crab = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.irons_spellbooks]
+				pyromancer = true
+				necromancer = true
+
+			[light_sources.settings.entities.environmental]
+				deer = true
+				reindeer = true
+
+			[light_sources.settings.entities.mysticsbiomes]
+				butterfly = true
+
 			[light_sources.settings.entities.twilightforest]
 				deer = true
 				ice_arrow = true
 				tiny_bird = true
+				giant_miner = true
 
 			[light_sources.settings.entities.create_enchantment_industry]
 				hyper_experience_bottle = true
@@ -236,7 +273,4 @@ mode = "fancy"
 			[light_sources.settings.entities.neapolitan]
 				chimpanzee = true
 				banana_peel = true
-
-			[light_sources.settings.entities.artifacts]
-				mimic = true
 

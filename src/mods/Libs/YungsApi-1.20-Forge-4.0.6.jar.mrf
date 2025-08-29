@@ -1,4 +1,6 @@
 {
   "VersionId": "PJOYAmAs",
-  "Sha1": "af584b690f5646c6032002b58abc4591beed3833"
+  "Sha1": "af584b690f5646c6032002b58abc4591beed3833",
+  "ServerSide": null,
+  "ClientSide": null
 }

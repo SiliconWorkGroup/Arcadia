@@ -1,4 +1,6 @@
 {
   "VersionId": "wez4FLab",
-  "Sha1": "a0252af334ade7a6b48fcabea3b4947fbcb18b24"
+  "Sha1": "a0252af334ade7a6b48fcabea3b4947fbcb18b24",
+  "ServerSide": null,
+  "ClientSide": null
 }

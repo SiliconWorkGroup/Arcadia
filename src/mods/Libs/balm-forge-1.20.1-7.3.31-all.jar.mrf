@@ -1,4 +1,6 @@
 {
   "VersionId": "jxGSAI51",
-  "Sha1": "cefbfa20529fec0935153c4ac03fc2080e6d31d5"
+  "Sha1": "cefbfa20529fec0935153c4ac03fc2080e6d31d5",
+  "ServerSide": null,
+  "ClientSide": null
 }

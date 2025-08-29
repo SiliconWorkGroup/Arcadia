@@ -1,4 +1,6 @@
 {
   "VersionId": "66z4rv38",
-  "Sha1": "bd44f1fd4eab0e58fd5e05a2e2b23071f132edd0"
+  "Sha1": "bd44f1fd4eab0e58fd5e05a2e2b23071f132edd0",
+  "ServerSide": null,
+  "ClientSide": null
 }

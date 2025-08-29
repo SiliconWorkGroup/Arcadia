@@ -1,4 +1,6 @@
 {
   "VersionId": "Cx95h37p",
-  "Sha1": "8e02c89f476d39d279d4b174d1a9137ad45cd8e5"
+  "Sha1": "8e02c89f476d39d279d4b174d1a9137ad45cd8e5",
+  "ServerSide": null,
+  "ClientSide": null
 }
