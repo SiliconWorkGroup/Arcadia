@@ -146,6 +146,7 @@ mode = "fancy"
 				crow = true
 				banana_slug = true
 				elephant = true
+				bison = true
 				sugar_glider = true
 
 			[light_sources.settings.entities.biomemakeover]
@@ -184,6 +185,7 @@ mode = "fancy"
 				deer = true
 				zebra = true
 				snail = true
+				canary = true
 				firefly = true
 				bluejay = true
 				snake = true
@@ -247,6 +249,7 @@ mode = "fancy"
 				mimic = true
 
 			[light_sources.settings.entities.irons_spellbooks]
+				dead_king_corpse = true
 				pyromancer = true
 				necromancer = true
 
