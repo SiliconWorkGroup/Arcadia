@@ -6,4 +6,3 @@ mrp r %project.cache%/mods
 copy %project.cache%/mods ^gameRoot^\mods
 delete %project.cache%/mods
 copy ./src/config ^gameRoot^\config true
-copy ./src/_mcef ^gameRoot^\mods
