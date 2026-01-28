@@ -83,6 +83,9 @@ mode = "fancy"
 				witch = true
 				spider = true
 
+			[light_sources.settings.entities.tconstruct]
+				sky_slime = true
+
 			[light_sources.settings.entities.blue_skies]
 				crystal_camel = true
 				infested_swarmer = true
@@ -198,6 +201,7 @@ mode = "fancy"
 				tortoise = true
 				butterfly = true
 				giraffe = true
+				bear = true
 				sparrow = true
 				lizard = true
 				finch = true

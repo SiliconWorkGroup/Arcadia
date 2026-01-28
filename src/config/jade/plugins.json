@@ -51,9 +51,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -64,15 +61,8 @@
     "goggles.detailed": false,
     "placard": true
   },
-  "touhou_little_maid": {
-    "maid": true,
-    "shrine_lamp": true
-  },
-  "twilightforest": {
-    "quest_ram_wool": true
-  },
-  "supplementaries": {
-    "hat_stand": true
+  "immersiveengineering": {
+    "multiblock_icon": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -81,9 +71,6 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
-  },
-  "waystones": {
-    "waystone": true
   },
   "infinitybuttons": {
     "hide_secret_buttons": true,
@@ -104,6 +91,22 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "touhou_little_maid": {
+    "maid": true,
+    "shrine_lamp": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "waystones": {
+    "waystone": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
