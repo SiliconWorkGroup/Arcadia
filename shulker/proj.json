@@ -1,6 +1,6 @@
 {
   "ProjectName": "Arcadia Next",
-  "Version": "B6.51",
+  "Version": "B6.70",
   "RootPath": "./src/",
   "OutPath": "./build/",
   "DefaultEnvVars": {}
