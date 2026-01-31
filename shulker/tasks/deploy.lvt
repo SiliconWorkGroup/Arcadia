@@ -1,7 +1,7 @@
 run settings.lvt
 import shulker.modrinth
 delete ^gameRoot^\mods
-flat ./src/mods %project.cache%/mods
+flat ./src/mods %project.cache%/mods true .*serverOnly.*
 mrp r %project.cache%/mods
 copy %project.cache%/mods ^gameRoot^\mods
 delete %project.cache%/mods

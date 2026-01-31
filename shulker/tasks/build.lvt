@@ -1,5 +1,5 @@
 import shulker.modrinth
-flat ./src/mods %project.cache%/overrides/mods
+flat ./src/mods %project.cache%/overrides/mods true .*serverOnly.*
 copy ./src/config %project.cache%/overrides/config true
 mrp e %project.cache%/overrides %project.cache%/modrinth.index.json true
 ifr @version "%project.ver%" %project.cache%/modrinth.index.json
