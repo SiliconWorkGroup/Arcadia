@@ -1,0 +1,2 @@
+run settings.lvt
+copy ^gameRoot^\config ./src/config true

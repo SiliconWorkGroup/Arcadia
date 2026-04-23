@@ -1,0 +1,2 @@
+run deploy.lvt
+sh powershell /c ./shulker/local/client.ps1
