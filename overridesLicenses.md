@@ -1,0 +1,2 @@
+- [Catalogue](https://github.com/MrCrayfish/Catalogue) `MIT`
+- [Configured](https://github.com/MrCrayfish/Configured)`LGPL-3.0`
