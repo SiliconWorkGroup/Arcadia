@@ -1,2 +1,11 @@
 - [Catalogue](https://github.com/MrCrayfish/Catalogue) `MIT`
 - [Configured](https://github.com/MrCrayfish/Configured)`LGPL-3.0`
+- [Twilight Forest](https://github.com/TeamTwilight/twilightforest) `LGPL-2.1 or later`
+- [AE2 LT](https://github.com/MOAKIEE/AE2-Lightning-Tech) `LGPL-3.0`
+- [ZSTD Net](https://github.com/wish131400/zstdnet/tree/main) `MIT`
+- [FTB Essentials](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials) `ARR` (允许在整合包使用)
+- [FTB Library](https://github.com/FTBTeam/FTB-Library) `ARR` (允许在整合包使用)
+- [More Red](https://github.com/Commoble/morered) `MIT`
+- [Refurbished Furniture](https://github.com/MrCrayfish/MrCrayfishFurnitureMod-Refurbished) `自定义许可` (允许在整合包使用)
+- [Bakeries](https://www.mcmod.cn/class/18100.html) `ARR` (允许在整合包使用)
+- [Framework](https://github.com/MrCrayfish/Framework) `LGPL-2.1`
