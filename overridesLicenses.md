@@ -9,3 +9,5 @@
 - [Refurbished Furniture](https://github.com/MrCrayfish/MrCrayfishFurnitureMod-Refurbished) `自定义许可` (允许在整合包使用)
 - [Bakeries](https://www.mcmod.cn/class/18100.html) `ARR` (允许在整合包使用)
 - [Framework](https://github.com/MrCrayfish/Framework) `LGPL-2.1`
+- [TiC3](https://github.com/MrCrayfish/Framework) `MIT`
+  - [Mantle](https://github.com/MrCrayfish/Framework) `MIT`
