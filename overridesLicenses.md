@@ -13,3 +13,4 @@
   - [Mantle](https://github.com/MrCrayfish/Framework) `MIT`
 - [Create: Colored](https://www.curseforge.com/minecraft/mc-mods/create-colored) `GPLv3`
 - [Immortalers Delight](https://github.com/Renyigesai/immortalers_delight) `MIT`
+- [Multi](https://github.com/evelant/mutil/tree/1.21.1) `MIT`
