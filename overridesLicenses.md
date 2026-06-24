@@ -14,3 +14,5 @@
 - [Create: Colored](https://www.curseforge.com/minecraft/mc-mods/create-colored) `GPLv3`
 - [Immortalers Delight](https://github.com/Renyigesai/immortalers_delight) `MIT`
 - [Multi](https://github.com/evelant/mutil/tree/1.21.1) `MIT`
+- [OpenComputerII Reimaged](https://github.com/North-Western-Development/oc2r) `MIT`
+  - [MarkdownManual](https://github.com/North-Western-Development/MarkdownManual) `CC0`
