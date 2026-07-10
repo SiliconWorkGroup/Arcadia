@@ -2,5 +2,6 @@
   "VersionId": "VEburL70",
   "Sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

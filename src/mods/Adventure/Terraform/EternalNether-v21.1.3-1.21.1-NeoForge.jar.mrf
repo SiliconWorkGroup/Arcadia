@@ -2,5 +2,6 @@
   "VersionId": "wfHip7bI",
   "Sha1": "3460532417842063306c5a12428b3c877e18d073",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

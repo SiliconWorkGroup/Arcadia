@@ -2,5 +2,6 @@
   "VersionId": "cxMKWFFD",
   "Sha1": "afabee69117b0cd50184579af33d80d096f4a9c6",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

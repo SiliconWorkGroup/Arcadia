@@ -2,5 +2,6 @@
   "VersionId": "lsHzazs4",
   "Sha1": "e3253b0894655c818efb6ec06de3c5d11151e5b9",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

@@ -2,5 +2,6 @@
   "VersionId": "fJcTU22k",
   "Sha1": "1b1b7a1449c932b053576b581731fbda89826ba2",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

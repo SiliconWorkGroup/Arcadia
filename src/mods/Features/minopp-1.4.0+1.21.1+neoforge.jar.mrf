@@ -2,5 +2,6 @@
   "VersionId": "oNb733MS",
   "Sha1": "ed43130754d36fa94dca6fea1e43d5ab039ae8cf",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

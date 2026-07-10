@@ -2,5 +2,6 @@
   "VersionId": "rUu97B0K",
   "Sha1": "7a6eae4bc851786c6519c8cac956b406cb71a8eb",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

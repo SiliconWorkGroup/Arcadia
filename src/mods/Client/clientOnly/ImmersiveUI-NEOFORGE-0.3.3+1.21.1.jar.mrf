@@ -2,5 +2,6 @@
   "VersionId": "wtmSnIFo",
   "Sha1": "5e9dda03c6142400b95dc3114675e07c943d554d",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

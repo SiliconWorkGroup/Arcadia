@@ -2,5 +2,6 @@
   "VersionId": "MSW5emg8",
   "Sha1": "2cffdb08d7cb068186cf0fe766fd937425889af1",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

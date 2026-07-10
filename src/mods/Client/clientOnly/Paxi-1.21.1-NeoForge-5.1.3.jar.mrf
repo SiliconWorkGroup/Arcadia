@@ -2,5 +2,6 @@
   "VersionId": "CLZfFbCx",
   "Sha1": "7140974a26a2cd79cdc7b85ab4e834916eacc7f1",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

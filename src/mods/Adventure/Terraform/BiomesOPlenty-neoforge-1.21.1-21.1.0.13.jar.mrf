@@ -2,5 +2,6 @@
   "VersionId": "8vIRXPpR",
   "Sha1": "e277fba0c94fea3c3f58d23bfa53d2eb457555f6",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

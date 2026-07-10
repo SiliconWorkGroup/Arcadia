@@ -2,5 +2,6 @@
   "VersionId": "bsGaXKEd",
   "Sha1": "8b61fa850e260bdeb5d360576123f98c260afa50",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

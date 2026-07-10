@@ -2,5 +2,6 @@
   "VersionId": "oXFAuLx3",
   "Sha1": "49a8a9a47d3dd720959807d45e19b6cd436c6114",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

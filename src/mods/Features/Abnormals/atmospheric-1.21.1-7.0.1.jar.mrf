@@ -2,5 +2,6 @@
   "VersionId": "XIvPRE4O",
   "Sha1": "522bbf4f8e0dcb1754c464e66ab301d8235ea315",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

@@ -2,5 +2,6 @@
   "VersionId": "kALoScYM",
   "Sha1": "7744c5b02427572f7154d6f851507544fd9404d2",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }

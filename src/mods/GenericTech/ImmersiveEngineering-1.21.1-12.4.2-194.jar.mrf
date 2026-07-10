@@ -2,5 +2,6 @@
   "VersionId": "uNRARSH2",
   "Sha1": "a4e90c2df8009040f6d022433c5d76635944dd59",
   "ServerSide": null,
-  "ClientSide": null
+  "ClientSide": null,
+  "Locked": false
 }
