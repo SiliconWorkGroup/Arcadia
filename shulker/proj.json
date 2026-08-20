@@ -1,6 +1,6 @@
 {
   "ProjectName": "Arcadia.newStage",
-  "Version": "A6.a9",
+  "Version": "A6.9a",
   "RootPath": "./src/",
   "OutPath": "./build/",
   "DefaultEnvVars": {}
