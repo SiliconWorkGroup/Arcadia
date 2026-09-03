@@ -3,5 +3,8 @@
   "Version": "A6.9a",
   "RootPath": "./src/",
   "OutPath": "./build/",
-  "DefaultEnvVars": {}
+  "DefaultEnvVars": {},
+  "Extensions": [
+    "gl:LiPolymer/ShulkerRDK#ShulkerRDK.Modrinth@B0.20"
+  ]
 }
